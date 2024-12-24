@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Large Grass Wall",
     "health": 600,
     "size": 2,
