@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Centered Ice Slab",
     "health": 600,
     "size": 1,
