@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Foliage Stair",
     "health": 600,
     "size": 1,
