@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Centered Savannah Slab",
     "health": 600,
     "size": 1,
