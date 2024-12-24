@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Angled Chain 5",
     "health": 600,
     "size": 1,
