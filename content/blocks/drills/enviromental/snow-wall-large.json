@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Large Snow Wall",
     "health": 600,
     "size": 2,
