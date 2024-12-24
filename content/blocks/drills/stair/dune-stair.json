@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Dune Stair",
     "health": 600,
     "size": 1,
