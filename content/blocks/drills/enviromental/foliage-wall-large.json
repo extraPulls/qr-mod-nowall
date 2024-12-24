@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Large Foliage Wall",
     "health": 600,
     "size": 2,
