@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Large Dune Wall",
     "health": 600,
     "size": 2,
