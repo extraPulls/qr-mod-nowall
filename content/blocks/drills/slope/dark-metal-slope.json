@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Dark Metal Slope",
     "health": 600,
     "size": 1,
