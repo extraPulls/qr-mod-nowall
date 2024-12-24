@@ -1,6 +1,6 @@
 {    
     "type": "Block",
-    "name": "Centered Grass Chunk",
+    "name": "Centered Ice Chunk",
     "health": 600,
     "size": 1,
     "rotate": true,
